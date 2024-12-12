@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "name": "guddu",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "guddu": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "guddu"
+  ],
+  "author": "kumar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "guddu867"
+  }
+}
